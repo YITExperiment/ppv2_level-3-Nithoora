@@ -65,9 +65,3 @@ t.goto(-65,135)
 rectangle(40,5,'black')
 
 t.hideturtle()
-
-
-
-h
-
-t.hideturtle
